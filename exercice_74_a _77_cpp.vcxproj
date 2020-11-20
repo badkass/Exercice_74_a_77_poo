@@ -22,12 +22,14 @@
     <ClInclude Include="CChose.h" />
     <ClInclude Include="Demo.h" />
     <ClInclude Include="Cpoint.h" />
+    <ClInclude Include="CSet_int.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Cchose.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Demo.cpp" />
     <ClCompile Include="Cpoint.cpp" />
+    <ClCompile Include="CSet_int.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
