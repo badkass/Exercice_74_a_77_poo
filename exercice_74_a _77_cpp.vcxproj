@@ -20,10 +20,12 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CChose.h" />
+    <ClInclude Include="Demo.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Cchose.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Demo.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

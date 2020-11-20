@@ -18,12 +18,18 @@
     <ClInclude Include="CChose.h">
       <Filter>Fichiers sources</Filter>
     </ClInclude>
+    <ClInclude Include="Demo.h">
+      <Filter>Fichiers sources</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Cchose.cpp">
       <Filter>Fichiers sources</Filter>
     </ClCompile>
     <ClCompile Include="main.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Demo.cpp">
       <Filter>Fichiers sources</Filter>
     </ClCompile>
   </ItemGroup>
